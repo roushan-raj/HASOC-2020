@@ -1,6 +1,6 @@
 # HASOC-2020
 
-## Participated in Hate Speech and Offensive Content Identification in Indo-European Languages (HASOC) 2020 Challenge! by Team - NSIT_ML_Geeks (Roushan Raj & Shivangi Srivastava)
+## Participated in Hate Speech and Offensive Content Identification in Indo-European Languages (HASOC) 2020 Challenge! by Team name - NSIT_ML_Geeks (Roushan Raj & Shivangi Srivastava)
 
 Competition tasks discription - https://hasocfire.github.io/hasoc/2020/
 
