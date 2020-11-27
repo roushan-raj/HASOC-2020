@@ -4,7 +4,7 @@
 
 Competition tasks discription - https://hasocfire.github.io/hasoc/2020/
 
-### Our Model Ranks in this Competition :  
+### Our Model's Ranks in this Competition :  
     
   - Hindi Sub-task A : 1st
   - Hindi Sub-task B : 2nd
@@ -15,7 +15,16 @@ Competition tasks discription - https://hasocfire.github.io/hasoc/2020/
   - English Sub-task A : 32th
   - English Sub-task B : 16th
   
-  
+## Instructions : 
+- Training data and Testing data are provided here : https://github.com/roushan-raj/HASOC-2020/tree/master/Dataset
+- Rankings (Leaderboard of HASOC FIRE 2020) can be found here : https://github.com/roushan-raj/HASOC-2020/tree/master/Leaderboard
+- Trained model for English : https://github.com/roushan-raj/HASOC-2020/tree/master/Models/English%20Models
+- Trained model for Hindi : https://github.com/roushan-raj/HASOC-2020/tree/master/Models/German%20Models
+- Trained model for German : https://github.com/roushan-raj/HASOC-2020/tree/master/Models/Hindi%20Models
+- The Word-Embeddings used in our models can be downloaded from below :
+    - GloVe : https://nlp.stanford.edu/projects/glove/
+    - FastText : https://fasttext.cc/docs/en/crawl-vectors.html
+- Results of all three language models evaluated on test data : https://github.com/roushan-raj/HASOC-2020/tree/master/Results
 
 ## Tasks
 There are two sub-tasks in each of the languages. Below is a brief description of each task.
