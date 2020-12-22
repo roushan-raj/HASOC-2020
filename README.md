@@ -25,6 +25,7 @@ Competition tasks discription - https://hasocfire.github.io/hasoc/2020/
     - GloVe : https://nlp.stanford.edu/projects/glove/
     - FastText : https://fasttext.cc/docs/en/crawl-vectors.html
 - Results of all three language models evaluated on test data : https://github.com/roushan-raj/HASOC-2020/tree/master/Results
+- In Conference presented ppt & pdf can be found here : https://github.com/roushan-raj/HASOC-2020/tree/master/Conference%20Paper%20Presentation/HASOC_FIRE_2020
 
 ## Tasks
 There are two sub-tasks in each of the languages. Below is a brief description of each task.
